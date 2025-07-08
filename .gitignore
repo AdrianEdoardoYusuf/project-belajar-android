@@ -1,0 +1,17 @@
+# Global .gitignore untuk semua project Flutter di repo ini
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+**/build/
+*.iml
+.idea/
+*.log
+*.class
+*.pyc
+*.swp
+.DS_Store 
